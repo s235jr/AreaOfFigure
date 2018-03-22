@@ -1,7 +1,7 @@
 public class Area {
     public static void main(String[] args) {
 
-        String square = "15";           // a
+        String square = "18";           // a
         String reactangle = "10 20";    //a h
         String triangle = "12 18";      // a h
         String rhombusAH = "15 22";     // a h
